@@ -2,21 +2,18 @@ html {
     text-align: center;
 }
 
-h4{
-    background-color: #ffc0cb;
+#center-box{
     margin-left: 25%;
     margin-right: 25%;
     padding: 20px;
-}
-
-#contact{
     border-color: black;
     border: 2px;
 }
 
+
 .answer{
     margin-left: 25%;
     margin-right: 25%;
-  
+    
 
 }
